@@ -103,6 +103,8 @@ The raw dataset was intentionally created with the following real-world data qua
 
 ## Visualisations Produced
 
+![HR Attrition Dashboard](outputs/09_full_dashboard.png)
+
 | Chart | Type | Insight Shown |
 |---|---|---|
 | Attrition Overview | Pie chart | Left vs Stayed ratio |
